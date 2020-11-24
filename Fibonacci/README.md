@@ -1,3 +1,3 @@
 # Fibonacci
 
-A description of this package.
+Provide an implementation of Fibonacci sequence
